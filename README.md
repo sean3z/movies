@@ -19,8 +19,9 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 ##### C
 * [ ] [Casablanca](http://www.imdb.com/title/tt0034583/?ref_=nv_sr_1) (1942)
 * [ ] [Children of the Corn](http://www.imdb.com/title/tt0087050/?ref_=nv_sr_1) (1984)
-* [ ] [Close Encounters of the Third Kind](http://www.imdb.com/title/tt0075860/?ref_=nv_sr_1) (1977)
 * [ ] [Chitty Chitty Bang Bang](http://www.imdb.com/title/tt0062803/) (1968)
+* [ ] [Close Encounters of the Third Kind](http://www.imdb.com/title/tt0075860/?ref_=nv_sr_1) (1977)
+* [ ] [Commando](http://www.imdb.com/title/tt0088944/) (1985)
 
 ##### D
 * [ ] [Die Hard](http://www.imdb.com/title/tt0095016/?ref_=nv_sr_1) (1988)
@@ -45,6 +46,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 ##### I
 ##### J
 * [ ] [Jaws](http://www.imdb.com/title/tt0073195/) (1975)
+* [ ] [The Jewel of the Nile](http://www.imdb.com/title/tt0089370/?ref_=fn_al_tt_1) (1985)
 
 ##### K
 ##### L
@@ -71,6 +73,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Romancing the Stone](http://www.imdb.com/title/tt0088011/?ref_=nv_sr_1) (1984)
 
 ##### S
+* [ ] [Scanners](http://www.imdb.com/title/tt0081455/?ref_=nv_sr_1) (1981)
 * [ ] [Sneakers](http://www.imdb.com/title/tt0105435/?ref_=nv_sr_1) (1992)
 * [ ] [The Sound of Music](http://www.imdb.com/title/tt0059742/?ref_=nv_sr_1) (1965)
 * [ ] Star Wars: [The Ewok Adventure](http://www.imdb.com/title/tt0087225/?ref_=fn_al_tt_1) (1984)
