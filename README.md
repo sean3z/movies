@@ -12,7 +12,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Aliens 3](http://www.imdb.com/title/tt0103644/?ref_=tt_rec_tt) (1992)
 
 ##### B
-* [ ] [Blade Runnder](http://www.imdb.com/title/tt0083658/?ref_=nv_sr_1) (1982)
+* [ ] [Blade Runner](http://www.imdb.com/title/tt0083658/?ref_=nv_sr_1) (1982)
 * [ ] [Braveheart](http://www.imdb.com/title/tt0112573/?ref_=nv_sr_1) (1995)
 
 ##### C
