@@ -5,7 +5,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/?ref_=nv_sr_1) (1968)
 
 ##### A
-* [ ] [An American Warewolf in London](http://www.imdb.com/title/tt0082010/) (1981)
+* [ ] [An American Werewolf in London](http://www.imdb.com/title/tt0082010/) (1981)
 * [ ] [A Beautiful Mind](http://www.imdb.com/title/tt0268978/?ref_=nv_sr_1) (2001)
 * [ ] [The Abyss](http://www.imdb.com/title/tt0096754/?ref_=nv_sr_1) (1989)
 * [ ] [Alien](http://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_3) (1979)
