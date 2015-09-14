@@ -48,6 +48,8 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 
 ##### K
 ##### L
+* [ ] [Labyrinth](http://www.imdb.com/title/tt0091369/)(1986)
+
 ##### M
 * [ ] [Mad Max](http://www.imdb.com/title/tt0079501/?ref_=nv_sr_2) (1979)
 * [ ] [Mad Max 2: The Road Warrior](http://www.imdb.com/title/tt0082694/?ref_=nv_sr_2) (1981)
