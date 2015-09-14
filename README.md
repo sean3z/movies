@@ -1,5 +1,6 @@
 # movies
-Below are a list of recommended movies that I've lnever seen (and would like to watch), in no particular order
+Below is a list of recommended movies that I've never seen (and would like to watch), in no particular order.
+
 ##### &#x23;
 * [ ] [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/?ref_=nv_sr_1) (1968)
 
