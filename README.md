@@ -19,6 +19,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Casablanca](http://www.imdb.com/title/tt0034583/?ref_=nv_sr_1) (1942)
 * [ ] [Children of the Corn](http://www.imdb.com/title/tt0087050/?ref_=nv_sr_1) (1984)
 * [ ] [Close Encounters of the Third Kind](http://www.imdb.com/title/tt0075860/?ref_=nv_sr_1) (1977)
+* [ ] [Chitty Chitty Bang Bang](http://www.imdb.com/title/tt0062803/) (1968)
 
 ##### D
 * [ ] [Die Hard](http://www.imdb.com/title/tt0095016/?ref_=nv_sr_1) (1988)
