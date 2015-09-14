@@ -31,8 +31,8 @@ Below are a list of recommended movies that I've lnever seen (and would like to 
 * [ ] [Mad Max 2: The Road Warrior](http://www.imdb.com/title/tt0082694/?ref_=nv_sr_2) (1981)
 * [ ] [Mad Max: Fury Road](http://www.imdb.com/title/tt1392190/?ref_=nv_sr_1) (2015)
 * [ ] [Romancing the Stone](http://www.imdb.com/title/tt0088011/?ref_=nv_sr_1) (1984)
-* [ ] Star Wars: An Ewok Adventure
-* [ ] Star Wars: Battle for Endor
+* [ ] Star Wars: [The Ewok Adventure](http://www.imdb.com/title/tt0087225/?ref_=fn_al_tt_1) (1984)
+* [ ] Star Wars: [Ewoks: The Battle for Endor](http://www.imdb.com/title/tt0089110/?ref_=fn_al_tt_1) (1985)
 * [ ] [The Abyss](http://www.imdb.com/title/tt0096754/?ref_=nv_sr_1) (1989)
 * [ ] [Poltergeist](http://www.imdb.com/title/tt0084516/?ref_=nv_sr_6) (1982)
 * [ ] [Children of the Corn](http://www.imdb.com/title/tt0087050/?ref_=nv_sr_1) (1984)
