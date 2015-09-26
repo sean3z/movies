@@ -1,5 +1,5 @@
 # movies
-Below is a list of recommended movies that I've never seen (and would like to watch), in no particular order.
+Below is a list of recommended movies that I've never seen (and would like to watch), in alphabetical order.
 
 ##### &#x23;
 * [ ] [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/?ref_=nv_sr_1) (1968)
@@ -21,6 +21,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Casablanca](http://www.imdb.com/title/tt0034583/?ref_=nv_sr_1) (1942)
 * [ ] [Children of the Corn](http://www.imdb.com/title/tt0087050/?ref_=nv_sr_1) (1984)
 * [ ] [Chitty Chitty Bang Bang](http://www.imdb.com/title/tt0062803/) (1968)
+* [ ] [Citizen Kane](http://www.imdb.com/title/tt0033467/) (1941)
 * [ ] [Close Encounters of the Third Kind](http://www.imdb.com/title/tt0075860/?ref_=nv_sr_1) (1977)
 * [ ] [Commando](http://www.imdb.com/title/tt0088944/) (1985)
 
@@ -39,6 +40,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 ##### G
 * [ ] [The Godfather](http://www.imdb.com/title/tt0068646/?ref_=nv_sr_1) (1972)
 * [ ] [The Godfather: Part II](http://www.imdb.com/title/tt0071562/?ref_=nv_sr_2) (1974)
+* [ ] [Goodfellas](http://www.imdb.com/title/tt0099685/) (1990)
 * [ ] [Great Gatsby](http://www.imdb.com/title/tt0071577/?ref_=nv_sr_2) (1974)
 
 ##### H
