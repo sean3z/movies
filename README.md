@@ -32,6 +32,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Die Hard: With a Vengence](http://www.imdb.com/title/tt0112864/?ref_=nv_sr_2) (1995)
 
 ##### E
+* [ ] [The Elephant Man](http://www.imdb.com/title/tt0080678/) (1980)
 * [ ] [E.T.](http://www.imdb.com/title/tt0083866/?ref_=nv_sr_4) (1982)
 
 ##### F
