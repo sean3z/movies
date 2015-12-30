@@ -49,6 +49,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Hackers](http://www.imdb.com/title/tt0113243/?ref_=nv_sr_1) (1995)
 
 ##### I
+* [ ] [Indiana Jones: Raiders of the Lost Ark](http://www.imdb.com/title/tt0082971/) (1981)
 ##### J
 * [ ] [Jaws](http://www.imdb.com/title/tt0073195/) (1975)
 * [ ] [The Jewel of the Nile](http://www.imdb.com/title/tt0089370/?ref_=fn_al_tt_1) (1985)
