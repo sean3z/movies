@@ -86,6 +86,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 ##### S
 * [ ] [Scanners](http://www.imdb.com/title/tt0081455/?ref_=nv_sr_1) (1981)
 * [ ] [Scarface](http://www.imdb.com/title/tt0086250/) (1983)
+* [ ] [Snatch](http://www.imdb.com/title/tt0208092/) (2000)
 * [ ] [Sneakers](http://www.imdb.com/title/tt0105435/?ref_=nv_sr_1) (1992)
 * [ ] [The Sound of Music](http://www.imdb.com/title/tt0059742/?ref_=nv_sr_1) (1965)
 * [ ] Star Wars: [The Ewok Adventure](http://www.imdb.com/title/tt0087225/?ref_=fn_al_tt_1) (1984)
