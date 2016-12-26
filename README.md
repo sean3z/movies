@@ -27,8 +27,8 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Commando](http://www.imdb.com/title/tt0088944/) (1985)
 
 ##### D
-* [ ] Death Wish
-* [ ] Death Wish 2
+* [ ] [Death Wish](http://www.imdb.com/title/tt0071402/) (1974)
+* [ ] [Death Wish 2](http://www.imdb.com/title/tt0082250/) (1982)
 * [ ] [Die Hard](http://www.imdb.com/title/tt0095016/?ref_=nv_sr_1) (1988)
 * [ ] [Die Hard 2](http://www.imdb.com/title/tt0099423/?ref_=fn_al_tt_1) (1990)
 * [ ] [Die Hard: With a Vengence](http://www.imdb.com/title/tt0112864/?ref_=nv_sr_2) (1995)
@@ -38,7 +38,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [E.T.](http://www.imdb.com/title/tt0083866/?ref_=nv_sr_4) (1982)
 
 ##### F
-* The Fog (original)
+* [ ] [The Fog](http://www.imdb.com/title/tt0080749/) (1980)
 * [ ] [Fight Club](http://www.imdb.com/title/tt0137523/?ref_=nv_sr_1) (1999)
 * [x] ~~[First Blood](http://www.imdb.com/title/tt0083944/?ref_=nv_sr_1) (1982)~~
 
