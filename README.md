@@ -53,6 +53,8 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 
 ##### I
 * [ ] [Indiana Jones: Raiders of the Lost Ark](http://www.imdb.com/title/tt0082971/) (1981)
+* [ ] [Indiana Jones: The Temple of Doom](https://www.imdb.com/title/tt0087469/) (1984)
+* [ ] [Indiana Jones: The Last Crusade](https://www.imdb.com/title/tt0097576/) (1989)
 
 ##### J
 * [ ] [Jaws](http://www.imdb.com/title/tt0073195/) (1975)
