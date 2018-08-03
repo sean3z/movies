@@ -45,7 +45,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 ##### G
 * [ ] [The Godfather](http://www.imdb.com/title/tt0068646/?ref_=nv_sr_1) (1972)
 * [ ] [The Godfather: Part II](http://www.imdb.com/title/tt0071562/?ref_=nv_sr_2) (1974)
-* [ ] [Goodfellas](http://www.imdb.com/title/tt0099685/) (1990)
+* [x] ~~[Goodfellas](http://www.imdb.com/title/tt0099685/) (1990)~~
 * [ ] [Great Gatsby](http://www.imdb.com/title/tt0071577/?ref_=nv_sr_2) (1974)
 
 ##### H
@@ -76,6 +76,8 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [The NeverEnding Story](http://www.imdb.com/title/tt0088323/?ref_=nv_sr_1) (1984)
 
 ##### O
+* [ ] [Office Space](https://www.imdb.com/title/tt0151804/) (1999)
+
 ##### P
 * [ ] [Poltergeist](http://www.imdb.com/title/tt0084516/?ref_=nv_sr_6) (1982)
 * [ ] [Psycho](http://www.imdb.com/title/tt0054215/?ref_=nv_sr_1) (1960)
