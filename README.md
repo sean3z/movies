@@ -77,6 +77,8 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 
 ##### N
 * [ ] [The NeverEnding Story](http://www.imdb.com/title/tt0088323/?ref_=nv_sr_1) (1984)
+* [ ] National Lampoon's: Vacation
+* [ ] National Lampoon's: Christmas Vacation
 
 ##### O
 * [ ] [Office Space](https://www.imdb.com/title/tt0151804/) (1999)
