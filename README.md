@@ -40,7 +40,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 
 ##### F
 * [ ] [The Fog](http://www.imdb.com/title/tt0080749/) (1980)
-* [ ] [Fight Club](http://www.imdb.com/title/tt0137523/?ref_=nv_sr_1) (1999)
+* [x] ~~[Fight Club](http://www.imdb.com/title/tt0137523/?ref_=nv_sr_1) (1999)~~
 * [x] ~~[First Blood](http://www.imdb.com/title/tt0083944/?ref_=nv_sr_1) (1982)~~
 
 ##### G
