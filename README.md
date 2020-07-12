@@ -9,7 +9,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Animal House](https://www.imdb.com/title/tt0077975/) (1978)
 * [ ] [A Beautiful Mind](http://www.imdb.com/title/tt0268978/?ref_=nv_sr_1) (2001)
 * [ ] [The Abyss](http://www.imdb.com/title/tt0096754/?ref_=nv_sr_1) (1989)
-* [ ] [Alien](http://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_3) (1979)
+* [x] ~~[Alien](http://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_3) (1979)~~
 * [ ] [Aliens](http://www.imdb.com/title/tt0090605/?ref_=nv_sr_1) (1986)
 * [ ] [Aliens 3](http://www.imdb.com/title/tt0103644/?ref_=tt_rec_tt) (1992)
 
@@ -53,12 +53,12 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Hackers](http://www.imdb.com/title/tt0113243/?ref_=nv_sr_1) (1995)
 
 ##### I
-* [ ] [Indiana Jones: Raiders of the Lost Ark](http://www.imdb.com/title/tt0082971/) (1981)
+* [x] ~~[Indiana Jones: Raiders of the Lost Ark](http://www.imdb.com/title/tt0082971/) (1981)~~
 * [ ] [Indiana Jones: The Temple of Doom](https://www.imdb.com/title/tt0087469/) (1984)
 * [ ] [Indiana Jones: The Last Crusade](https://www.imdb.com/title/tt0097576/) (1989)
 
 ##### J
-* [ ] [Jaws](http://www.imdb.com/title/tt0073195/) (1975)
+* [x] ~~[Jaws](http://www.imdb.com/title/tt0073195/) (1975)~~
 * [ ] [The Jewel of the Nile](http://www.imdb.com/title/tt0089370/?ref_=fn_al_tt_1) (1985)
 * [ ] [The Judge](http://www.imdb.com/title/tt1872194/) (2014)
 
@@ -81,7 +81,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] National Lampoon's: Christmas Vacation
 
 ##### O
-* [ ] [Office Space](https://www.imdb.com/title/tt0151804/) (1999)
+* [x] ~~[Office Space](https://www.imdb.com/title/tt0151804/) (1999)~~
 
 ##### P
 * [ ] [Poltergeist](http://www.imdb.com/title/tt0084516/?ref_=nv_sr_6) (1982)
