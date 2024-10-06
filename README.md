@@ -20,7 +20,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 * [ ] [Braveheart](http://www.imdb.com/title/tt0112573/?ref_=nv_sr_1) (1995)
 
 ##### C
-* [ ] [Casablanca](http://www.imdb.com/title/tt0034583/?ref_=nv_sr_1) (1942)
+* [x] ~[Casablanca](http://www.imdb.com/title/tt0034583/?ref_=nv_sr_1) (1942)~
 * [ ] [Children of the Corn](http://www.imdb.com/title/tt0087050/?ref_=nv_sr_1) (1984)
 * [ ] [Chitty Chitty Bang Bang](http://www.imdb.com/title/tt0062803/) (1968)
 * [ ] [Citizen Kane](http://www.imdb.com/title/tt0033467/) (1941)
