@@ -71,7 +71,7 @@ Below is a list of recommended movies that I've never seen (and would like to wa
 ##### M
 * [ ] [Mad Max](http://www.imdb.com/title/tt0079501/?ref_=nv_sr_2) (1979)
 * [ ] [Mad Max 2: The Road Warrior](http://www.imdb.com/title/tt0082694/?ref_=nv_sr_2) (1981)
-* [ ] [Mad Max: Fury Road](http://www.imdb.com/title/tt1392190/?ref_=nv_sr_1) (2015)
+* [x] ~[Mad Max: Fury Road](http://www.imdb.com/title/tt1392190/?ref_=nv_sr_1) (2015)~
 * [ ] [The Maltese Falcon](http://www.imdb.com/title/tt0033870/?ref_=nv_sr_1) (1941)
 * [ ] [Marry Poppins](http://www.imdb.com/title/tt0058331/?ref_=fn_al_tt_1) (1964)
 
